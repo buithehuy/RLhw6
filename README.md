@@ -39,7 +39,7 @@ To train a new RL agent with the help of a teacher agent, use the `-t` flag foll
 
 ```bash
 python play.py -a q -t 5000
-
+```
 ### 2. Load a Trained Agent and View Reward History
 To load a pre-trained agent and view a plot of its cumulative reward history, run the following script:
 
